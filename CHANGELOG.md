@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Added
+- Audit attempts to update and fetch an invisible secret.
+
 ### Changes
 - Optimize audit database and responses, for a significant improvement of performance.
 
